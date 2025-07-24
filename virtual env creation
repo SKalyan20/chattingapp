@@ -1,0 +1,2 @@
+#virtual env creation
+ python -m venv  C:\fastapi\venv #folder location 
